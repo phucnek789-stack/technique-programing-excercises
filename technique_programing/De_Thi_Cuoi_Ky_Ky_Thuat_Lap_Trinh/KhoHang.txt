@@ -1,0 +1,21 @@
+=====Danh sách các linh kiện=====
+Mainboard ASUS ROG Strix,ASUS,8,4500000
+SSD Samsung 980 Pro,Samsung,12,2300000
+RAM Corsair Vengeance,Corsair,3,1500000
+CPU Intel Core i9,Intel,5,12500000
+VGA MSI RTX 4060,MSI,2,8900000
+Monitor Samsung Odyssey,Samsung,4,6500000
+Nguon Gigabyte 750W,Gigabyte,15,1800000
+Tan nhiet Cooler Master,Cooler Master,20,9500000
+SSD Kingston NV2,Kingston,2,1100000
+RAM Samsung DDR5,Samsung,25,1750000
+Chuot Logitech G502,Logitech,14,1200000
+Ban phim Akko 3075,Akko,3,1650000
+Case Machenike Ultra,Machenike,7,1350000
+Tan nhiet nuoc Deepcool,Deepcool,6,2400000
+Linh kien Bo mach Samsung,Samsung,10,3100000
+Tai nghe Kingston HyperX,Kingston,1,1850000
+Lot chuot Razer Goliathus,Razer,30,450000
+Card Wifi Intel AX210,Intel,4,350000
+O cung HDD Seagate BarraCuda,Seagate,11,1250000
+SSD Crucial P3 Plus,Crucial,18,1600000

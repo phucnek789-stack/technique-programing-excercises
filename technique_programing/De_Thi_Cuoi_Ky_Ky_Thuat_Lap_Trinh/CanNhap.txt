@@ -1,0 +1,7 @@
+RAM Corsair Vengeance,Corsair,3,1500000
+VGA MSI RTX 4060,MSI,2,8900000
+Monitor Samsung Odyssey,Samsung,4,6500000
+SSD Kingston NV2,Kingston,2,1100000
+Ban phim Akko 3075,Akko,3,1650000
+Tai nghe Kingston HyperX,Kingston,1,1850000
+Card Wifi Intel AX210,Intel,4,350000

@@ -1,0 +1,5 @@
+Machine learning co ban,Nguyen Thi Lan,480,155000
+Lap trinh web fullstack,Nguyen Duc Long,460,140000
+Khai pha du lieu,Nguyen Van Hung,440,138000
+Tri tue nhan tao co ban,Nguyen Hoang Nam,420,135000
+Lap trinh C co ban,Nguyen Van An,320,85000

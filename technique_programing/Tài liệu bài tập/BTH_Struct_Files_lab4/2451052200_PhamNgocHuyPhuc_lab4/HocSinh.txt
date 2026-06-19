@@ -1,0 +1,22 @@
+Tran Van Khoa; 05-05-2008; Vinh Long;3.5;4;4.2
+Bui Tuan Kiet; 08-08-2008; Tay Ninh;4;4.5;5
+Do Van Nam; 10-02-2008; Nghe An;4.5;5;4.8
+Nguyen Duc Long; 11-06-2008; Dong Nai;5;5.5;6
+Pham Van Hung; 13-06-2007; Phu Yen;5.2;5.8;5.5
+Bui Quoc Cuong; 07-07-2008; Hai Phong;5.5;6;5.8
+Le Thanh Phong; 28-10-2008; Khanh Hoa;6;6.2;6.5
+Tran Thi Bich; 03-09-2007; Da Nang;6;6.5;7
+Do Thi Lan; 27-01-2008; Thai Binh;6.8;6.5;6.9
+Tran Huu Phuc; 09-09-2008; Quang Nam;6.5;6.8;7.2
+Pham Thao Nhi; 18-08-2007; Hue;7;7.5;6.8
+Vo Minh Tuan; 16-03-2007; Gia Lai;7.2;7.8;7
+Ly Hoang Quan; 02-02-2007; Binh Duong;7.8;7;7.5
+Tran Duc Manh; 04-04-2007; Nam Dinh;8.2;7.9;8
+Nguyen Van An; 12-05-2008; Ha Noi;8.5;7.5;9
+Pham Ngoc Huy Phuc;4 4 2006;Dong Nai;8.6;7.5;8.8
+Vu Ngoc Han; 14-04-2007; Can Tho;8;8.5;8.2
+Pham Quoc Bao; 21-12-2007; Thanh Hoa;8.7;8;8.5
+Tran Vu Nhu Quynh;8 2 2006;Dong Nai;9;8;8.5
+Nguyen Thi Mai; 30-11-2007; Bac Ninh;9;9.2;8.9
+Le Minh Tuan; 25-01-2008; Ho Chi Minh;9.2;8.8;9.5
+Nguyen Hoang Phuc; 19-07-2007; Lam Dong;9.5;9;9.3

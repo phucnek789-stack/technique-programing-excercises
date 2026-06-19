@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\De_Thi_Thuc_Hanh_Giua_Ky_De1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{180D2E67-7347-42E0-9E89-EE86CEFC3D6D}|De_Thi_Thuc_Hanh_Giua_Ky_De1.vcxproj|D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\De_Thi_Thuc_Hanh_Giua_Ky_De1\\Cau2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{180D2E67-7347-42E0-9E89-EE86CEFC3D6D}|De_Thi_Thuc_Hanh_Giua_Ky_De1.vcxproj|solutionrelative:Cau2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180D2E67-7347-42E0-9E89-EE86CEFC3D6D}|De_Thi_Thuc_Hanh_Giua_Ky_De1.vcxproj|D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\De_Thi_Thuc_Hanh_Giua_Ky_De1\\Cau1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{180D2E67-7347-42E0-9E89-EE86CEFC3D6D}|De_Thi_Thuc_Hanh_Giua_Ky_De1.vcxproj|solutionrelative:Cau1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 481,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cau2.cpp",
+              "DocumentMoniker": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\De_Thi_Thuc_Hanh_Giua_Ky_De1\\Cau2.cpp",
+              "RelativeDocumentMoniker": "Cau2.cpp",
+              "ToolTip": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\De_Thi_Thuc_Hanh_Giua_Ky_De1\\Cau2.cpp",
+              "RelativeToolTip": "Cau2.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-14T09:25:17.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cau1.cpp",
+              "DocumentMoniker": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\De_Thi_Thuc_Hanh_Giua_Ky_De1\\Cau1.cpp",
+              "RelativeDocumentMoniker": "Cau1.cpp",
+              "ToolTip": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\De_Thi_Thuc_Hanh_Giua_Ky_De1\\Cau1.cpp",
+              "RelativeToolTip": "Cau1.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-14T08:35:31.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

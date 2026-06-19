@@ -1,0 +1,20 @@
+Lap trinh C co ban,Nguyen Van An,320,85000
+Cau truc du lieu va giai thuat,Tran Minh Duc,450,120000
+Lap trinh huong doi tuong Java,Le Minh Tuan,380,110000
+Co so du lieu,Pham Thi Nhi,400,105000
+Mang may tinh,Vo Quoc Bao,360,98000
+Tri tue nhan tao co ban,Nguyen Hoang Nam,420,135000
+Lap trinh Python tu co ban den nang cao,Bui Thanh Phong,500,150000
+Phan tich thiet ke he thong,Do Van Kien,390,115000
+He dieu hanh,Tran Thi Mai,410,108000
+An toan thong tin,Le Van Hieu,370,99000
+Lap trinh web fullstack,Nguyen Duc Long,460,140000
+Cong nghe phan mem,Pham Quoc Cuong,340,95000
+Khoa hoc du lieu can ban,Vu Ngoc Han,430,145000
+Machine learning co ban,Nguyen Thi Lan,480,155000
+Deep learning ung dung,Tran Huu Phuc,520,165000
+Phat trien ung dung di dong,Le Thanh Son,350,102000
+Lap trinh game voi Unity,Bui Tuan Kiet,410,125000
+Xu ly anh so,Do Thi Hoa,360,98000
+Khai pha du lieu,Nguyen Van Hung,440,138000
+He thong thong tin quan ly,Pham Minh Quan,390,112000

@@ -1,0 +1,21 @@
+1,Toyota Vios,Toyota,500
+2,Hyundai Accent,Hyundai,480
+3,Honda City,Honda,550
+4,Mitsubishi Xpander,Mitsubishi,630
+5,Ford Ranger,Ford,800
+6,Kia Selto,Kia,600
+7,Mazda 3,Mazda,660
+8,VinFast VF8,VinFast,1100
+9,Toyota Corolla Cross,Toyota,750
+10,Hyundai SantaFe,Hyundai,1050
+11,Honda CR-V,Honda,1000
+12,Kia Morning,Kia,350
+13,Mazda CX-5,Mazda,850
+14,Ford Everest,Ford,1200
+15,Suzuki XL7,Suzuki,590
+16,Toyota Fortuner,Toyota,1100
+17,Hyundai Creta,Hyundai,620
+18,VinFast VF5,VinFast,460
+19,Kia Carnival,Kia,1500
+20,Mitsubishi Attrage,Mitsubishi,400
+21,Wave Alpha,Honda,190

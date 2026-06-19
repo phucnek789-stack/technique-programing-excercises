@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\BTH_Struct_Files_lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3205DB7B-CCA2-43C2-9CF4-273E7760B3D4}|2451052200_PhamNgocHuyPhuc_lab4\\2451052200_PhamNgocHuyPhuc_lab4.vcxproj|D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\BTH_Struct_Files_lab4\\2451052200_PhamNgocHuyPhuc_lab4\\Bai4_Struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3205DB7B-CCA2-43C2-9CF4-273E7760B3D4}|2451052200_PhamNgocHuyPhuc_lab4\\2451052200_PhamNgocHuyPhuc_lab4.vcxproj|solutionrelative:2451052200_PhamNgocHuyPhuc_lab4\\Bai4_Struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3205DB7B-CCA2-43C2-9CF4-273E7760B3D4}|2451052200_PhamNgocHuyPhuc_lab4\\2451052200_PhamNgocHuyPhuc_lab4.vcxproj|D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\BTH_Struct_Files_lab4\\2451052200_PhamNgocHuyPhuc_lab4\\Bai3_Struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3205DB7B-CCA2-43C2-9CF4-273E7760B3D4}|2451052200_PhamNgocHuyPhuc_lab4\\2451052200_PhamNgocHuyPhuc_lab4.vcxproj|solutionrelative:2451052200_PhamNgocHuyPhuc_lab4\\Bai3_Struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 239,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai4_Struct.cpp",
+              "DocumentMoniker": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\BTH_Struct_Files_lab4\\2451052200_PhamNgocHuyPhuc_lab4\\Bai4_Struct.cpp",
+              "RelativeDocumentMoniker": "2451052200_PhamNgocHuyPhuc_lab4\\Bai4_Struct.cpp",
+              "ToolTip": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\BTH_Struct_Files_lab4\\2451052200_PhamNgocHuyPhuc_lab4\\Bai4_Struct.cpp",
+              "RelativeToolTip": "2451052200_PhamNgocHuyPhuc_lab4\\Bai4_Struct.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAIQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-13T06:43:17.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai3_Struct.cpp",
+              "DocumentMoniker": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\BTH_Struct_Files_lab4\\2451052200_PhamNgocHuyPhuc_lab4\\Bai3_Struct.cpp",
+              "RelativeDocumentMoniker": "2451052200_PhamNgocHuyPhuc_lab4\\Bai3_Struct.cpp",
+              "ToolTip": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\BTH_Struct_Files_lab4\\2451052200_PhamNgocHuyPhuc_lab4\\Bai3_Struct.cpp",
+              "RelativeToolTip": "2451052200_PhamNgocHuyPhuc_lab4\\Bai3_Struct.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-13T06:43:15.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

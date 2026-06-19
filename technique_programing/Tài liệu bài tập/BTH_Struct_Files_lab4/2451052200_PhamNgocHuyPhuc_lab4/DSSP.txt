@@ -1,0 +1,24 @@
+===========================
+Ma san pham: SP04
+Ten san pham: RedBull
+Don gia san pham: 12000
+So luong san pham ton kho: 80
+Ngay, thang, nam san xuat: 10/6/2025
+===========================
+Ma san pham: SP01
+Ten san pham: Banh Mi
+Don gia san pham: 15000
+So luong san pham ton kho: 50
+Ngay, thang, nam san xuat: 1/1/2024
+===========================
+Ma san pham: SP05
+Ten san pham: Banh Keo
+Don gia san pham: 25000
+So luong san pham ton kho: 60
+Ngay, thang, nam san xuat: 6/3/2026
+===========================
+Ma san pham: SP02
+Ten san pham: Sua Tuoi
+Don gia san pham: 32000
+So luong san pham ton kho: 50
+Ngay, thang, nam san xuat: 15/3/2025

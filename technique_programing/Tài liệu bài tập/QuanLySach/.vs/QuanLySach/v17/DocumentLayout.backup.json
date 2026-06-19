@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\QuanLySach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146BDD58-AAEB-4903-9EFA-E01C3EBF5A7A}|QuanLySach.vcxproj|D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\QuanLySach\\QuanLySach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{146BDD58-AAEB-4903-9EFA-E01C3EBF5A7A}|QuanLySach.vcxproj|solutionrelative:QuanLySach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 398,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLySach.cpp",
+              "DocumentMoniker": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\QuanLySach\\QuanLySach.cpp",
+              "RelativeDocumentMoniker": "QuanLySach.cpp",
+              "ToolTip": "D:\\2nd year of Open University\\2nd semester (2025-2026)\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh\\T\u00E0i li\u1EC7u b\u00E0i t\u1EADp\\QuanLySach\\QuanLySach.cpp*",
+              "RelativeToolTip": "QuanLySach.cpp*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwEUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T03:22:56.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
